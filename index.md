@@ -1,4 +1,4 @@
-# Isaac's Parada Portfolio
+# Isaac Parada's Portfolio
 
 This is my home page! My name is Isaac Parada and I am a student at Cal State Fullerton my major is Computer Science.
 
